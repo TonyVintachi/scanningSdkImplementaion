@@ -1,0 +1,8 @@
+.DS_Store
+.idea
+.gradle
+build/
+local.properties
+AnylineSDK-Examples/AnylineSDK-Examples-Source/gradle
+AnylineSDK-Examples/AnylineSDK-Examples-Source/gradlew
+AnylineSDK-Examples/AnylineSDK-Examples-Source/gradlew.bat
